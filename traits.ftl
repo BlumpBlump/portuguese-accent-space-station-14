@@ -61,7 +61,7 @@ trait-spanish-name = Spanish accent
 trait-spanish-desc = Hola señor, donde esta la biblioteca.
 
 trait-portuguese-name = Portuguese accent
-trait-portuguese-desc = You must love portwine.
+trait-portuguese-desc = You probably wanted to say "Olá, meu amigo!".
 
 trait-painnumbness-name = Numb
 trait-painnumbness-desc = You lack any sense of feeling pain, being unaware of how hurt you may be.
